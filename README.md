@@ -47,7 +47,7 @@ Power supply was made of old USB cable (using only GND and VCC 5V wires) and a p
 ### Virtual arduino build 
 Virtual build was made using  [wokwi.com](https://wokwi.com/)
 
-Virtual model ⚠️ **WORK IN PROGRESS** [CLICK]().⚠️
+Virtual model ⚠️ **WORK IN PROGRESS** [CLICK](https://wokwi.com/projects/365155835459182593).⚠️
 
 ### Electrical Scheme 
 ⚠️ **WORK IN PROGRESS** ![Scheme]() ⚠️
