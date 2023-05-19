@@ -41,13 +41,19 @@ Power supply was made of old USB cable (using only GND and VCC 5V wires) and a p
   ![GUI](https://i.imgur.com/QYVi5hX.png) 
     GUI bitmap
 
-## *DISCLAIMER* ⚠️
-<b><i> SPI OLED display is currently not supported by wokwi.com, so I have used I2C one in example below</b></i>.
+
 
 ### Virtual arduino build 
 Virtual build was made using  [wokwi.com](https://wokwi.com/)
 
-Virtual model ⚠️ **WORK IN PROGRESS** [CLICK](https://wokwi.com/projects/365155835459182593).⚠️
+Virtual model  [CLICK](https://wokwi.com/projects/365163882774249473).
 
-### Electrical Scheme 
-⚠️ **WORK IN PROGRESS** ![Scheme]() ⚠️
+
+## ⚠️*DISCLAIMER* ⚠️
+<i> SPI OLED display is currently not supported by wokwi.com, so I have used I2C one in example below</i>.
+
+<i> ⚠️ Wokwi does not support external power supply so in simulation I connected them directly to the arduino. 
+  
+  <b> ⚠️DO NOT ATTEMPT AT REAL HARDWARE ⚠️</b></i>
+  ### Electrical Scheme 
+ ![Scheme](https://i.imgur.com/dmfTsWz.png) 
