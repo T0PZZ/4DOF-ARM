@@ -57,3 +57,5 @@ Virtual model  [CLICK](https://wokwi.com/projects/365163882774249473).
   <b> ⚠️DO NOT ATTEMPT AT REAL HARDWARE ⚠️</b></i>
   ### Electrical Scheme 
  ![Scheme](https://i.imgur.com/dmfTsWz.png) 
+## Physical build
+Link to my GDrive -> [![Drive](https://i.imgur.com/LnjYpEA.png)](https://drive.google.com/drive/folders/1sn7tmMp2qNCiYFp342f7FHbDtOxizc4K?usp=sharing)
